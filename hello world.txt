@@ -1,1 +1,14 @@
 Hello World!
+
+Git Commands : 
+
+
+git credential reject <<EOF
+protocol=https
+host=github.com
+EOF
+
+git reset --hard <Commit ID>
+
+git push origin dev --force-with-lease
+

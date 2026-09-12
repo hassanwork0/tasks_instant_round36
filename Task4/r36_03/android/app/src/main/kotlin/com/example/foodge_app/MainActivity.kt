@@ -1,0 +1,5 @@
+package com.example.foodge_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
